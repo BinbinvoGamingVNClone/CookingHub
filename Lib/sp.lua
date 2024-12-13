@@ -1,3 +1,4 @@
+-- Open Source LOL
 do
     local ui = game:GetService("CoreGui"):FindFirstChild("UILibrary")
     if ui then
